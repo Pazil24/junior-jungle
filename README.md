@@ -113,6 +113,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- All contributors who have helped with code, ideas, and testing
+- All contributors who have helped and will help in future with code, ideas, and testing
 - The African wildlife that inspired this educational journey
 - Educational experts who provided guidance on content
