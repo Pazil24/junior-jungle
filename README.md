@@ -6,6 +6,17 @@ An interactive educational game designed to teach children aged 4-12 coding and 
 
 Junior Jungle is an educational game where children learn coding concepts by guiding various animals through the African savannah. Players use basic programming concepts to help animals navigate challenges, find resources, and return home safely.
 
+## 📊 Data Storytelling
+
+The game incorporates data storytelling in several engaging ways:
+
+- **Animal Behavior Patterns**: Players learn about animal migration patterns and behaviors through interactive visualizations
+- **Environmental Data**: Real-world data about African ecosystems is presented through engaging stories and challenges
+- **Progress Analytics**: Children can see their learning progress through visual charts and graphs
+- **Interactive Maps**: Players explore African geography through interactive maps showing animal habitats
+- **Data-Driven Decisions**: Each level teaches how to make decisions based on environmental data and animal needs
+- **Visual Feedback**: Immediate visual feedback helps children understand the impact of their coding decisions
+
 ## ✨ Features
 
 - **Multiple Animal Characters**: Choose from elephants, lions, giraffes, and zebras
